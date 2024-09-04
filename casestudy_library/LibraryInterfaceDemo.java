@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class LibraryInterfaceDemo {
 	static {
-		System.out.println("**WELCOME TO  NOMULA'S LIBRARY**");
+		System.out.println("**WELCOME TO  LIBRARY**");
 	}
 	public static void main(String[] args) {
 		

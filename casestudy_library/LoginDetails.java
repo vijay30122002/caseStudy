@@ -12,18 +12,18 @@ public LoginDetails(String username,String password){
 	else throw new InvalidLoginDetailsException("The username or password doesn’t seem quite right");
 }
 public boolean verfiyUserName(String username) {
-	if(username.equals("durganomula")) {
+	if(username.equals("vijay")) {
 		return true;
 	}
 	else return false;
 }
 public boolean verifyPassword(String password) {
-	if(password.equals("nomula")) {
+	if(password.equals("kumar")) {
 		return true;
 	}
 	else return false;
 }
-//LoginDetails l=new LoginDetails("durganomula","nomula");
+nnbb
 
 
 }
